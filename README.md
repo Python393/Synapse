@@ -1,11 +1,10 @@
-# Youtube0Pi
-A simple youtube browser for the raspberry pi zero family.
+# Synapse
+A simple browser that doesnt load css nor html. Greatly optimized for the raspberry pi zero family.
 
 -FEATURES-
 
--simple search with the youtube api.
+-simple search with serpapi.
 
--watch any content from youtube without waiting
-for the page to load.
+-search for anything without the need to load css, html.
 
--
+-reduce system loads.
