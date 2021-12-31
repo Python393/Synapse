@@ -12,4 +12,4 @@ class synap(self):
         pass
 
     def loadUri(self, str(query)):
-        pass
+        return("works")
